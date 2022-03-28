@@ -1,6 +1,6 @@
 package src.RentACar;
 
-public class GasolineCar extends AFuelCar  {
+public class        GasolineCar extends AFuelCar  {
 
 
 
